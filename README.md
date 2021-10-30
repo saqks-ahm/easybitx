@@ -9,4 +9,5 @@
 <li>Enhanced LCD Bar Graph display for S meter (*Required H/W needs to be connected to A0 pin of Nano, do not leave pin floating)</li>
 <li>Skipless tuning and Error-free button presses</li>
 </ul>
+YouTube Video Description by VU3SUA <p><a href="https://www.youtube.com/watch?v=61TvaxDYXN0">https://www.youtube.com/watch?v=61TvaxDYXN0</a></p>
 <p>This is released under GPL v3 license.</p>
