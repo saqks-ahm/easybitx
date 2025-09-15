@@ -2,7 +2,7 @@
 <p>This code is created by VU3GAO for EasyBitx Kits by Sunil Lakhani VU3SUA. This code can be used for any amateur radio projects based on si5351 VFO</p>
 <p><span style="text-decoration: underline;"><strong>Features</strong></span></p>
 <ul>
-<li>Dual-Band Support</li>
+<li>Mono Band</li>
 <li>Auto VFO setting for 40m/20m band</li>
 <li>Auto USB/LSB mode with display indicator</li>
 <li>Heartbeat Monitor Display</li>
